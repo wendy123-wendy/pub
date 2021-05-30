@@ -1,0 +1,6 @@
+git config --global user.name"wendy123-wendy"
+
+git config --global user.email"1056337090@qq.com"
+
+git clone --https://github.com/wendy123-wendy/DEV.git
+git clone --https://github.com/wendy123-wendy/pub.git
